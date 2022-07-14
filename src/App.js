@@ -3,6 +3,10 @@ import React from "react";
 import Die from "./components/Die";
 import { nanoid } from "nanoid";
 
+
+
+console.log("hi")
+
 function App() {
   function allNewDice() {
     const dices = [];
